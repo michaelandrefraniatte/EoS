@@ -1,0 +1,108 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>EoSResol</title>
+    <meta name="description" content="Calculating and defining all PVTX and Reaction data from 1 to 8 constituents">
+    <meta name="keywords" content="gas, liquid, pvt, pressure, temperature, volume, theory, experiment, Reaction, synthesis, close, system">
+    <meta name="author" content="MICHAEL ANDRE FRANIATTE">
+
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="../extra/w3.css">
+    <link rel="stylesheet" href="../bootstrap/bootstrap.min.css" />
+    <link rel="stylesheet" href="../custom/custom.css" />
+    <link rel="stylesheet" href="../extra/rgpd.css" />
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.css">
+    <link rel="stylesheet" href="../extra/spinner.css" />
+
+</head>
+
+<body id="page-top" onLoad="window_onload()">
+
+    <div class="back">
+
+    <div class="fa fa-spinner fa-spin spinner show"></div>
+
+    <span aria-label="No Cookies!" class="infobulle">&#8505;</span>
+
+    <button onclick="topFunction()" id="TopBtn" aria-label="Go to top">▲</button>
+
+    <div id="banner"><img src="../img/favicon.jpg" /><div id="closebanner">✖</div><div id="textbanner">This website respect entirely the life privacy. No cookies are stored on any database or any file or any webbrowser.</div><div id="button1banner">I understand</div><div id="button2banner">I don't understand</div></div>
+
+    <div class="top w3-center">
+        <a href="../#EoS"><img class="logo" src="eosresol.png" alt="wv"></a>
+        <div class="title colored">
+            <h2>EoSResol</h2>
+            <h1>Equation of State Resolution</h1>
+        </div>
+    </div>
+
+    <div class="container">
+
+        <div class="w3-row first-section">
+            <div class="w3-container">
+                <h3 class="w3-center colored"><b>Calculating and Defining all PVTX and Reaction Data from 1 to 8 Constituents</b></h3>
+                <p>
+                    <b>W</b>ith the equations in this program, coming from Soave-Redlich-Kwong, some other very old authors and me, in 2009, I modelized and then synthetized, for the first time, in a little hydrothermal system, reproducing gas generation (as I was a student in a laboratory working on Origin of Life, but alone to work on my PhD), in pure quantity, and at 250°C and 140 bars, the molecule of Origin Of Life: The Acridine Orange. It's the organic molecule where any other can be derived. It increases Lifetime and is able to generate ADN, because it can replicate. I synthetised a lot of pure molecules from easy calculation with this program. It found statistic volume of atmosphere and ocean like on Earth. It prooves that ice on Mars have something under totally different than ice and in big quantities like an atmosphere. I applied perfectly calculations, and from original equations, I made only 2 changes, empirically and theorically prooven from very old authors and my works with a new mathematical hypothesis I found. I was able to resolve derivation of all polynomial equations, resolve all polynomial equations with a hand pen, all differential equations better than with CNP functions which is a wrong method, all eletrochemical potentials, define all diffusion coefficients of materials from diffusion profil, find the properties of 2 unknown constituents, all PVTX data, PT traject of all fluid inclusions, solubilities of all constituents in all fluids, proove the equality of pressures from each side of a membrane, proove that any molecule pure in a closed system are stabilized at any temperature and any pressure, resolve all chemical reactions, synthetise easy any molecules and find all properties of molecules from my modelizations, but scientific community screamed on me and my own knowledges, and then pushed me out. Instead of pay me, they printed on papers all my researches, the last day I was in the laboratory, and some mounths later, they asked my PC password. But they are unable to understand and continue whatever. The slightest thing that disappeared in the laboratory, I was accused of stealing it. No helps, only screams. I had to become homeless and foodless without my parents. In 2009, my contribution was to make working Equation of State method for all chemical Reactions, with experimental proofs, and in all environements without any fake idea, after 50 years of copy/paste wrong articles without any interest, if I did not do that.
+                </p>
+                <p>
+                    <b>H</b>ave fun with the several CSV files I give with the program. Have fun to modelize and synthetize everything, have fun to discover responses to the unviversal Universe, just thinking that in a closed system (which is open on itselve), gas molecules and liquid molecules are in same number for a given constituent, so the system itselve is half gas and half liquid, and gas can be more dense than liquid. The program is illustrating with the following 4 pictures, where Acridine Orange synthesis is taken in example. Let's see...
+                </p>
+            </div>
+        </div>
+
+        <div class="w3-center row">
+            <div class="column">
+                <img src="../img/eosresol-acridineorange.png" alt="eosresol-acridineorange" style="width:100%" onclick='img_box("../img/eosresol-acridineorange.png")'>
+            </div>
+            <div class="column">
+                <img src="../img/eosresol-reaction1.png" alt="eosresol-reaction1" style="width:100%" onclick='img_box("../img/eosresol-reaction1.png")'>
+            </div>
+            <div class="column">
+                <img src="../img/eosresol-reaction2.png" alt="eosresol-reaction2" style="width:100%" onclick='img_box("../img/eosresol-reaction2.png")'>
+            </div>
+            <div class="column">
+                <img src="../img/eosresol-reaction3.png" alt="eosresol-reaction3" style="width:100%" onclick='img_box("../img/eosresol-reaction3.png")'>
+            </div>
+        </div>
+
+        <div class="w3-row second-section">
+            <div class="w3-container">
+                <h3 class="w3-center colored"><b>Considerations About the Program</b></h3>
+                <p>
+                    <b>S</b>cientific community believes to equality of chemical potentials from each edge of a membrane. Hydrogen diffusion through a membrane for 10 bars, mixing with argon at 500 bars, make increase the total pressure to 513 bars because for them hydrogen have a fugacity coefficient of 1.3. But everyone can understand that argon has less space making argon to be at 503 bars. From each edge of a membrane it's the equality of pressures, not of fugacities as they thinking. If it was the equality of fugacities why hydrogen alone in the system would not be at 13 bars? Very old authors are all dead, and people think only new and all new articles are true, old are wrong. What I made and found are theorically, experimentally, and empirically prooven, and modelize the entire matter in the Universe. You can try the web version of <a href="../EoSResol-Web-Application/">EoSResol</a>. If you are interested and to see it's running by yourself, if you aren't lazzy, you can watch <a target="_blank" href="ProgramingEoSResol.pdf">book about the WinForms</a>, <a target="_blank" href="ExcelEoSResol.pdf">book about the XLS</a>, <a href="EoSResolXLS.xls" download class="dl-link">XLS file</a>, and see example CSV files to open with the web version. And I also made the Windows Store program that was published but fired. To note, you must set dot instead of comma for number floating as decimal separator in regional options, under control panel.
+                </p>
+            </div>
+        </div>
+
+    </div>
+
+    <footer class="bottom w3-center">
+        <img src="../img/favicon.png" />
+        <br>
+        <b class="white">MAF</b>
+        <br>
+        <b class="colored">©1999-2023</b>
+    </footer>
+
+    </div>
+
+    <script type="text/javascript">
+        function window_onload() {
+            var sc = document.createElement('script');
+            sc.src = "../custom/custom.js";
+            document.getElementsByTagName('head')[0].appendChild(sc);
+   		    document.getElementsByClassName("spinner")[0].classList.remove("show");
+   		    document.getElementsByClassName("spinner")[0].classList.add("hide");
+  		    $(".spinner").removeClass("show");
+   		    $(".spinner").addClass("hide");
+        }
+    </script>
+
+</body>
+</html>

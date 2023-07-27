@@ -1,0 +1,11 @@
+[Files]
+"C:\Users\micou\Documents\Visual Studio 2015\Projects\EoSResol\EoSResol\EoSResol.Windows\bin\Release\AppxManifest.xml" "AppxManifest.xml"
+"C:\Users\micou\Documents\Visual Studio 2015\Projects\EoSResol\EoSResol\EoSResol.Windows\bin\Release\EoSResol.Windows.exe" "EoSResol.Windows.exe"
+"C:\Users\micou\Documents\Visual Studio 2015\Projects\EoSResol\EoSResol\EoSResol.Windows\Assets\Logo.scale-100.png" "Assets\Logo.scale-100.png"
+"C:\Users\micou\Documents\Visual Studio 2015\Projects\EoSResol\EoSResol\EoSResol.Windows\Assets\SmallLogo.scale-100.png" "Assets\SmallLogo.scale-100.png"
+"C:\Users\micou\Documents\Visual Studio 2015\Projects\EoSResol\EoSResol\EoSResol.Windows\Assets\SplashScreen.scale-100.png" "Assets\SplashScreen.scale-100.png"
+"C:\Users\micou\Documents\Visual Studio 2015\Projects\EoSResol\EoSResol\EoSResol.Windows\Assets\StoreLogo.scale-100.png" "Assets\StoreLogo.scale-100.png"
+"C:\Users\micou\Documents\Visual Studio 2015\Projects\EoSResol\EoSResol\EoSResol.Windows\bin\Release\EoSResol.Windows.xr.xml" "EoSResol.Windows.xr.xml"
+"C:\Users\micou\Documents\Visual Studio 2015\Projects\EoSResol\EoSResol\EoSResol.Windows\bin\Release\App.xbf" "App.xbf"
+"C:\Users\micou\Documents\Visual Studio 2015\Projects\EoSResol\EoSResol\EoSResol.Windows\bin\Release\MainPage.xbf" "MainPage.xbf"
+"C:\Users\micou\Documents\Visual Studio 2015\Projects\EoSResol\EoSResol\EoSResol.Windows\bin\Release\resources.pri" "resources.pri"

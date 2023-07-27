@@ -1,0 +1,1 @@
+C:\Users\micou\Documents\Visual Studio 2015\Projects\EoSResol\EoSResol\EoSResol.WindowsPhone\EoSResol.WindowsPhone.csproj;neutral

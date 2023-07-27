@@ -1,0 +1,133 @@
+﻿<Page
+    x:Class="EoSResol.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:EoSResol"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" Height="679.75" Width="1429">
+
+    <Grid RenderTransformOrigin="0.488,0.521" Margin="0,0,0,36.667">
+        <TextBox x:Name="textBox3" HorizontalAlignment="Left" Margin="136,41,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox116" HorizontalAlignment="Left" Margin="31,449,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox16" HorizontalAlignment="Left" Margin="31,394,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox15" HorizontalAlignment="Left" Margin="31,339,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox14" HorizontalAlignment="Left" Margin="31,282,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox1" HorizontalAlignment="Left" Margin="31,41,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox2" HorizontalAlignment="Left" Margin="31,102,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox12" HorizontalAlignment="Left" Margin="31,164,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox13" HorizontalAlignment="Left" Margin="31,224,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" RenderTransformOrigin="0.405,7.5" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox106" HorizontalAlignment="Left" Margin="1137,41,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox97" HorizontalAlignment="Left" Margin="1037,41,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox11" HorizontalAlignment="Left" Margin="938,41,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox10" HorizontalAlignment="Left" Margin="837,41,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox9" HorizontalAlignment="Left" Margin="737,41,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox8" HorizontalAlignment="Left" Margin="637,41,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox7" HorizontalAlignment="Left" Margin="536,41,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox6" HorizontalAlignment="Left" Margin="436,41,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox5" HorizontalAlignment="Left" Margin="337,41,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox4" HorizontalAlignment="Left" Margin="236,41,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox115" HorizontalAlignment="Left" Margin="1236,41,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox108" HorizontalAlignment="Left" Margin="1236,449,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox109" HorizontalAlignment="Left" Margin="1236,394,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox110" HorizontalAlignment="Left" Margin="1236,339,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox111" HorizontalAlignment="Left" Margin="1236,282,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox114" HorizontalAlignment="Left" Margin="1236,102,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox113" HorizontalAlignment="Left" Margin="1236,164,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox112" HorizontalAlignment="Left" Margin="1236,224,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" RenderTransformOrigin="0.405,7.5" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox107" HorizontalAlignment="Left" Margin="1236,504,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox99" HorizontalAlignment="Left" Margin="1137,449,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox100" HorizontalAlignment="Left" Margin="1137,394,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox101" HorizontalAlignment="Left" Margin="1137,339,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox102" HorizontalAlignment="Left" Margin="1137,282,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox105" HorizontalAlignment="Left" Margin="1137,102,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox104" HorizontalAlignment="Left" Margin="1137,164,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox103" HorizontalAlignment="Left" Margin="1137,224,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" RenderTransformOrigin="0.405,7.5" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox98" HorizontalAlignment="Left" Margin="1137,504,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox90" HorizontalAlignment="Left" Margin="1037,449,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox91" HorizontalAlignment="Left" Margin="1037,394,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox92" HorizontalAlignment="Left" Margin="1037,339,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox93" HorizontalAlignment="Left" Margin="1037,282,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox96" HorizontalAlignment="Left" Margin="1037,102,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox95" HorizontalAlignment="Left" Margin="1037,164,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox94" HorizontalAlignment="Left" Margin="1037,224,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" RenderTransformOrigin="0.405,7.5" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox89" HorizontalAlignment="Left" Margin="1037,504,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox82" HorizontalAlignment="Left" Margin="938,449,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox83" HorizontalAlignment="Left" Margin="938,394,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox84" HorizontalAlignment="Left" Margin="938,339,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox85" HorizontalAlignment="Left" Margin="938,282,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox88" HorizontalAlignment="Left" Margin="938,102,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox87" HorizontalAlignment="Left" Margin="938,164,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox86" HorizontalAlignment="Left" Margin="938,224,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" RenderTransformOrigin="0.405,7.5" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox81" HorizontalAlignment="Left" Margin="938,504,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox74" HorizontalAlignment="Left" Margin="837,449,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox75" HorizontalAlignment="Left" Margin="837,394,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox76" HorizontalAlignment="Left" Margin="837,339,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox77" HorizontalAlignment="Left" Margin="837,282,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox80" HorizontalAlignment="Left" Margin="837,102,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox79" HorizontalAlignment="Left" Margin="837,164,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox78" HorizontalAlignment="Left" Margin="837,224,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" RenderTransformOrigin="0.405,7.5" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox73" HorizontalAlignment="Left" Margin="837,504,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox66" HorizontalAlignment="Left" Margin="737,449,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox67" HorizontalAlignment="Left" Margin="737,394,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox68" HorizontalAlignment="Left" Margin="737,339,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox69" HorizontalAlignment="Left" Margin="737,282,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox72" HorizontalAlignment="Left" Margin="737,102,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox71" HorizontalAlignment="Left" Margin="737,164,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox70" HorizontalAlignment="Left" Margin="737,224,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" RenderTransformOrigin="0.405,7.5" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox65" HorizontalAlignment="Left" Margin="737,504,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox58" HorizontalAlignment="Left" Margin="635,449,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox59" HorizontalAlignment="Left" Margin="635,394,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox60" HorizontalAlignment="Left" Margin="635,339,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox61" HorizontalAlignment="Left" Margin="635,282,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox64" HorizontalAlignment="Left" Margin="635,102,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox63" HorizontalAlignment="Left" Margin="635,164,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox62" HorizontalAlignment="Left" Margin="635,224,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" RenderTransformOrigin="0.405,7.5" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox57" HorizontalAlignment="Left" Margin="635,504,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox50" HorizontalAlignment="Left" Margin="536,449,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox51" HorizontalAlignment="Left" Margin="536,394,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox52" HorizontalAlignment="Left" Margin="536,339,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox53" HorizontalAlignment="Left" Margin="536,282,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox56" HorizontalAlignment="Left" Margin="536,102,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox55" HorizontalAlignment="Left" Margin="536,164,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox54" HorizontalAlignment="Left" Margin="536,224,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" RenderTransformOrigin="0.405,7.5" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox49" HorizontalAlignment="Left" Margin="536,504,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox42" HorizontalAlignment="Left" Margin="436,449,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox43" HorizontalAlignment="Left" Margin="436,394,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox44" HorizontalAlignment="Left" Margin="436,339,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox45" HorizontalAlignment="Left" Margin="436,282,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox48" HorizontalAlignment="Left" Margin="436,102,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox47" HorizontalAlignment="Left" Margin="436,164,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox46" HorizontalAlignment="Left" Margin="436,224,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" RenderTransformOrigin="0.405,7.5" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox41" HorizontalAlignment="Left" Margin="436,504,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox34" HorizontalAlignment="Left" Margin="337,449,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox35" HorizontalAlignment="Left" Margin="337,394,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox36" HorizontalAlignment="Left" Margin="337,339,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox37" HorizontalAlignment="Left" Margin="337,282,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox40" HorizontalAlignment="Left" Margin="337,102,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox39" HorizontalAlignment="Left" Margin="337,164,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox38" HorizontalAlignment="Left" Margin="337,224,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" RenderTransformOrigin="0.405,7.5" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox33" HorizontalAlignment="Left" Margin="337,504,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox26" HorizontalAlignment="Left" Margin="236,449,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox27" HorizontalAlignment="Left" Margin="236,394,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox28" HorizontalAlignment="Left" Margin="236,339,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox29" HorizontalAlignment="Left" Margin="236,282,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox32" HorizontalAlignment="Left" Margin="236,102,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox31" HorizontalAlignment="Left" Margin="236,164,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox30" HorizontalAlignment="Left" Margin="236,224,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" RenderTransformOrigin="0.405,7.5" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox25" HorizontalAlignment="Left" Margin="236,504,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox23" HorizontalAlignment="Left" Margin="136,449,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox22" HorizontalAlignment="Left" Margin="136,394,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox21" HorizontalAlignment="Left" Margin="136,339,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox20" HorizontalAlignment="Left" Margin="136,282,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox17" HorizontalAlignment="Left" Margin="136,102,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox18" HorizontalAlignment="Left" Margin="136,164,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox19" HorizontalAlignment="Left" Margin="136,224,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" RenderTransformOrigin="0.405,7.5" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <TextBox x:Name="textBox24" HorizontalAlignment="Left" Margin="136,504,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MaxHeight="34" MaxWidth="90" MinWidth="90"/>
+        <Button x:Name="button2" Content="Fill" HorizontalAlignment="Left" Margin="22,562,0,0" VerticalAlignment="Top" RenderTransformOrigin="-4.3,0.263" Width="80" Click="button2_Click"/>
+        <Button x:Name="button4" Content="Reaction" HorizontalAlignment="Left" Margin="364,560,0,25" VerticalAlignment="Stretch" RenderTransformOrigin="-4.3,0.263" Click="button4_Click_1"/>
+        <Button x:Name="button3" Content="Fugacity" HorizontalAlignment="Left" Margin="250,562,0,0" VerticalAlignment="Top" RenderTransformOrigin="-4.3,0.263" Click="button3_Click_1"/>
+        <Button x:Name="button1" Content="Volume" HorizontalAlignment="Left" Margin="136,562,0,0" VerticalAlignment="Top" RenderTransformOrigin="-4.3,0.263" Click="button1_Click_1"/>
+    </Grid>
+</Page>

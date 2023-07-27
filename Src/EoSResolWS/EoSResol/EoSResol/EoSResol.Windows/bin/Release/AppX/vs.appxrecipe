@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>PC-SALON</Machine>
+    <WindowsUser>micou</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>2928gamistry.EoSResol</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\micou\Documents\Visual Studio 2015\Projects\EoSResol\EoSResol\EoSResol.Windows\obj\Release\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>A6304099D2535652E3D34E87B026AD5C52AB794FA726FD04178AEE3A596AEE63</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>2928gamistry.EoSResol_1.1.0.5_neutral__83amvd1n87wfj</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>2928gamistry.EoSResol_83amvd1n87wfj!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>2928gamistry.EoSResol</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=BA8B37A7-3B3A-41BE-AB40-523CBC109799</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.5</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\micou\Documents\Visual Studio 2015\Projects\EoSResol\EoSResol\EoSResol.Windows\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-08-26T17:33:21.003</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\micou\Documents\Visual Studio 2015\Projects\EoSResol\EoSResol\EoSResol.Windows\bin\Release\EoSResol.Windows.exe">
+      <PackagePath>EoSResol.Windows.exe</PackagePath>
+      <Modified>2015-08-26T17:32:48.794</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\micou\Documents\Visual Studio 2015\Projects\EoSResol\EoSResol\EoSResol.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-08-25T23:20:26.375</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\micou\Documents\Visual Studio 2015\Projects\EoSResol\EoSResol\EoSResol.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-08-25T23:23:52.585</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\micou\Documents\Visual Studio 2015\Projects\EoSResol\EoSResol\EoSResol.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-08-25T23:24:27.469</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\micou\Documents\Visual Studio 2015\Projects\EoSResol\EoSResol\EoSResol.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-08-25T23:25:26.667</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\micou\Documents\Visual Studio 2015\Projects\EoSResol\EoSResol\EoSResol.Windows\bin\Release\EoSResol.Windows.xr.xml">
+      <PackagePath>EoSResol.Windows.xr.xml</PackagePath>
+      <Modified>2015-08-26T17:23:14.464</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\micou\Documents\Visual Studio 2015\Projects\EoSResol\EoSResol\EoSResol.Windows\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-08-26T17:23:14.510</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\micou\Documents\Visual Studio 2015\Projects\EoSResol\EoSResol\EoSResol.Windows\bin\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-08-26T17:23:14.510</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\micou\Documents\Visual Studio 2015\Projects\EoSResol\EoSResol\EoSResol.Windows\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-08-26T17:33:20.943</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

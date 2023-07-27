@@ -1,0 +1,32 @@
+C:\Users\Caramel\Documents\Visual Studio 2010\Projects\EoSResol\EoSResol\bin\Release\EoSResol.exe.manifest
+C:\Users\Caramel\Documents\Visual Studio 2010\Projects\EoSResol\EoSResol\bin\Release\EoSResol.application
+C:\Users\Caramel\Documents\Visual Studio 2010\Projects\EoSResol\EoSResol\bin\Release\EoSResol.exe
+C:\Users\Caramel\Documents\Visual Studio 2010\Projects\EoSResol\EoSResol\bin\Release\EoSResol.pdb
+C:\Users\Caramel\Documents\Visual Studio 2010\Projects\EoSResol\EoSResol\obj\Release\EoSResol.Form1.resources
+C:\Users\Caramel\Documents\Visual Studio 2010\Projects\EoSResol\EoSResol\obj\Release\EoSResol.Properties.Resources.resources
+C:\Users\Caramel\Documents\Visual Studio 2010\Projects\EoSResol\EoSResol\obj\Release\EoSResol.csproj.GenerateResource.Cache
+C:\Users\Caramel\Documents\Visual Studio 2010\Projects\EoSResol\EoSResol\obj\Release\EoSResol.exe.manifest
+C:\Users\Caramel\Documents\Visual Studio 2010\Projects\EoSResol\EoSResol\obj\Release\EoSResol.application
+C:\Users\Caramel\Documents\Visual Studio 2010\Projects\EoSResol\EoSResol\obj\Release\EoSResol.exe
+C:\Users\Caramel\Documents\Visual Studio 2010\Projects\EoSResol\EoSResol\obj\Release\EoSResol.pdb
+C:\Users\Mic\Documents\micedition\EoS\EoSResol\EoSResol\obj\Release\EoSResol.exe
+C:\Users\Mic\Documents\micedition\EoS\EoSResol\EoSResol\obj\Release\EoSResol.pdb
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\EoS\EoSResol\EoSResol\obj\Release\EoSResol.exe
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\EoS\EoSResol\EoSResol\obj\Release\EoSResol.pdb
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\EoS\EoSResol\EoSResol\bin\Release\EoSResol.exe.manifest
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\EoS\EoSResol\EoSResol\bin\Release\EoSResol.application
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\EoS\EoSResol\EoSResol\bin\Release\EoSResol.exe
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\EoS\EoSResol\EoSResol\bin\Release\EoSResol.pdb
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\EoS\EoSResol\EoSResol\obj\Release\EoSResol.csprojResolveAssemblyReference.cache
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\EoS\EoSResol\EoSResol\obj\Release\EoSResol.Form1.resources
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\EoS\EoSResol\EoSResol\obj\Release\EoSResol.Properties.Resources.resources
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\EoS\EoSResol\EoSResol\obj\Release\EoSResol.csproj.GenerateResource.Cache
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\EoS\EoSResol\EoSResol\obj\Release\EoSResol.exe.manifest
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\EoS\EoSResol\EoSResol\obj\Release\EoSResol.application
+C:\Users\mic\Documents\GitHub\EoSResol\Src\EoSResol\EoSResol\obj\Release\EoSResol.csprojAssemblyReference.cache
+C:\Users\mic\Documents\GitHub\EoSResol\Src\EoSResol\EoSResol\obj\Release\EoSResol.Form1.resources
+C:\Users\mic\Documents\GitHub\EoSResol\Src\EoSResol\EoSResol\obj\Release\EoSResol.Properties.Resources.resources
+C:\Users\mic\Documents\GitHub\EoSResol\Src\EoSResol\EoSResol\obj\Release\EoSResol.csproj.GenerateResource.cache
+C:\Users\mic\Documents\GitHub\EoSResol\Src\EoSResol\EoSResol\obj\Release\EoSResol.csproj.CoreCompileInputs.cache
+C:\Users\mic\Documents\GitHub\EoSResol\Src\EoSResol\EoSResol\obj\Release\EoSResol.exe
+C:\Users\mic\Documents\GitHub\EoSResol\Src\EoSResol\EoSResol\obj\Release\EoSResol.pdb

@@ -1,0 +1,9 @@
+P (bars),400,constituent,Pc (bars),Tc (K),wc,M (g/mol),molar fraction,massic fraction,molar V (cm3/mol),fugacity,fugacity°,stoechio react,stoechio prod
+T (°C),300,H2,12.97,33.3,-0.215,2.0158,0.176658233417666,H2,H2,H2,H2,0,0
+molar V Liq,molar V Liq,H2O,221.2,647.30,0.344,18.0158,0.808831911680883,H2O,H2O,H2O,H2O,2.5,0
+V Liq+Gaz/Gaz,V Liq+Gaz/Gaz,CO2,73.8,304.2,0.225,44.0096,0.00742992570074299,CO2,CO2,CO2,CO2,5,0
+V Liq+Gaz/Liq+Gaz,V Liq+Gaz/Liq+Gaz,NH3,113.33,405.40,0.25601,17.03040,0.00000,NH3,NH3,NH3,NH3,0,0
+V Gaz/Gaz,V Gaz/Gaz,N2,33.9,126.2,0.04,28.0134,0.00652993470065299,N2,N2,N2,N2,2.5,0
+density xl (g/cm3),density xl (g/cm3),CO,35,132.9,0.049,28.0102,0.00000,CO,CO,CO,CO,0,0
+density global,density global,O2,50.5,154.6,0.021,32.0852,0.000549994500054999,O2,O2,O2,O2,0,6.25
+Kr/Keq,Kr/Keq,H2S,89.4,373.2,0.1,34.0814,0.000000,H2S,H2S,H2S,H2S,0,0
