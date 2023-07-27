@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EoSResol", "EoSResol\EoSResol.csproj", "{7A5D6558-79E6-4F05-BAC4-30C22D74E23E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A5D6558-79E6-4F05-BAC4-30C22D74E23E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A5D6558-79E6-4F05-BAC4-30C22D74E23E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A5D6558-79E6-4F05-BAC4-30C22D74E23E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A5D6558-79E6-4F05-BAC4-30C22D74E23E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F76D099A-FF4D-472C-8A5A-C45176698110}
+	EndGlobalSection
+EndGlobal
