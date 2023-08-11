@@ -1,20 +1,8 @@
 ﻿using System;
-using System.Linq;
-using System.Text;
 using System.Windows.Forms;
-using System.Runtime.InteropServices;
 using System.IO;
-using System.Diagnostics;
-using System.Management;
-using System.Security.Cryptography;
-using System.Collections.Generic;
 using System.Threading.Tasks;
 using System.Threading;
-using System.Drawing;
-using System.ComponentModel;
-using System.Data;
-using System.Globalization;
-using NetFwTypeLib;
 using EO.WebBrowser;
 namespace EoSResol
 {
@@ -24,8 +12,6 @@ namespace EoSResol
         {
             InitializeComponent();
         }
-        private static int width = Screen.PrimaryScreen.Bounds.Width;
-        private static int height = Screen.PrimaryScreen.Bounds.Height;
         public static Form1 form = (Form1)Application.OpenForms["Form1"];
         public static string path, readText, csv;
         private void Form1_Shown(object sender, EventArgs e)
@@ -48,34 +34,25 @@ namespace EoSResol
             this.webView1.Engine.Options.DisableGPU = false;
             this.webView1.Engine.Options.DisableSpellChecker = true;
             this.webView1.Engine.Options.CustomUserAgent = "Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko";
-            path = @"ppia.html";
-            readText = DecryptFiles(path + ".encrypted", "tybtrybrtyertu50727885");
-            webView1.LoadHtml(readText);
+            Navigate("https://michaelandrefraniatte.github.io/ppia/");
             webView1.RegisterJSExtensionFunction("DownloadCSV", new JSExtInvokeHandler(WebView_JSDownloadCSV));
             webView1.RegisterJSExtensionFunction("UploadCSV", new JSExtInvokeHandler(WebView_JSUploadCSV));
         }
-        public static string DecryptFiles(string inputFile, string password)
+        private void Navigate(string address)
         {
-            using (var input = File.OpenRead(inputFile))
+            if (String.IsNullOrEmpty(address))
+                return;
+            if (address.Equals("about:blank"))
+                return;
+            if (!address.StartsWith("http://") & !address.StartsWith("https://"))
+                address = "https://" + address;
+            try
             {
-                byte[] salt = new byte[8];
-                input.Read(salt, 0, salt.Length);
-                using (var decryptedStream = new MemoryStream())
-                using (var pbkdf = new Rfc2898DeriveBytes(password, salt))
-                using (var aes = new RijndaelManaged())
-                using (var decryptor = aes.CreateDecryptor(pbkdf.GetBytes(aes.KeySize / 8), pbkdf.GetBytes(aes.BlockSize / 8)))
-                using (var cs = new CryptoStream(input, decryptor, CryptoStreamMode.Read))
-                {
-                    string contents;
-                    int data;
-                    while ((data = cs.ReadByte()) != -1)
-                        decryptedStream.WriteByte((byte)data);
-                    decryptedStream.Position = 0;
-                    using (StreamReader sr = new StreamReader(decryptedStream))
-                        contents = sr.ReadToEnd();
-                    decryptedStream.Flush();
-                    return contents;
-                }
+                webView1.Url = address;
+            }
+            catch (System.UriFormatException)
+            {
+                return;
             }
         }
         private void webView1_LoadCompleted(object sender, LoadCompletedEventArgs e)
