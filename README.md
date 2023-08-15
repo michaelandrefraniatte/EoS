@@ -1,1 +1,3 @@
-https://michaelandrefraniatte.github.io/EoS
+﻿https://michaelandrefraniatte.github.io/EoS  
+  
+https://github.com/michaelandrefraniatte  
