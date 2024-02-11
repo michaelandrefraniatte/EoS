@@ -187,7 +187,6 @@ C:\Users\micha\Documents\github\EoS\Src\EoSResol\EoSResol\bin\Release\EO.Base.xm
 C:\Users\micha\Documents\github\EoS\Src\EoSResol\EoSResol\bin\Release\EO.WebBrowser.xml
 C:\Users\micha\Documents\github\EoS\Src\EoSResol\EoSResol\bin\Release\EO.WebEngine.xml
 C:\Users\micha\Documents\github\EoS\Src\EoSResol\EoSResol\obj\Release\EoSResol.csproj.AssemblyReference.cache
-C:\Users\micha\Documents\github\EoS\Src\EoSResol\EoSResol\obj\Release\EoSResol.csproj.SuggestedBindingRedirects.cache
 C:\Users\micha\Documents\github\EoS\Src\EoSResol\EoSResol\obj\Release\EoSResol.Form1.resources
 C:\Users\micha\Documents\github\EoS\Src\EoSResol\EoSResol\obj\Release\EoSResol.Properties.Resources.resources
 C:\Users\micha\Documents\github\EoS\Src\EoSResol\EoSResol\obj\Release\EoSResol.csproj.GenerateResource.cache

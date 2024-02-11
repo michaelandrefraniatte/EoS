@@ -30,3 +30,17 @@ C:\Users\mic\Documents\GitHub\EoSResol\Src\EoSResol\EoSResol\obj\Release\EoSReso
 C:\Users\mic\Documents\GitHub\EoSResol\Src\EoSResol\EoSResol\obj\Release\EoSResol.csproj.CoreCompileInputs.cache
 C:\Users\mic\Documents\GitHub\EoSResol\Src\EoSResol\EoSResol\obj\Release\EoSResol.exe
 C:\Users\mic\Documents\GitHub\EoSResol\Src\EoSResol\EoSResol\obj\Release\EoSResol.pdb
+C:\Users\micha\Documents\github\EoS\Src\EoSResolForm\EoSResol\EoSResol\obj\Release\EoSResol.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\github\EoS\Src\EoSResolForm\EoSResol\EoSResol\obj\Release\EoSResol.Form1.resources
+C:\Users\micha\Documents\github\EoS\Src\EoSResolForm\EoSResol\EoSResol\obj\Release\EoSResol.Properties.Resources.resources
+C:\Users\micha\Documents\github\EoS\Src\EoSResolForm\EoSResol\EoSResol\obj\Release\EoSResol.csproj.GenerateResource.cache
+C:\Users\micha\Documents\github\EoS\Src\EoSResolForm\EoSResol\EoSResol\obj\Release\EoSResol.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\github\EoS\Src\EoSResolForm\EoSResol\EoSResol\obj\Release\EoSResol.exe
+C:\Users\micha\Documents\github\EoS\Src\EoSResolForm\EoSResol\EoSResol\obj\Release\EoSResol.pdb
+C:\Users\micha\Documents\github\EoS\Src\EoSResolForm\EoSResol\EoSResol\bin\Release\EoSResol.exe.config
+C:\Users\micha\Documents\github\EoS\Src\EoSResolForm\EoSResol\EoSResol\bin\Release\EoSResol.exe.manifest
+C:\Users\micha\Documents\github\EoS\Src\EoSResolForm\EoSResol\EoSResol\bin\Release\EoSResol.application
+C:\Users\micha\Documents\github\EoS\Src\EoSResolForm\EoSResol\EoSResol\bin\Release\EoSResol.exe
+C:\Users\micha\Documents\github\EoS\Src\EoSResolForm\EoSResol\EoSResol\bin\Release\EoSResol.pdb
+C:\Users\micha\Documents\github\EoS\Src\EoSResolForm\EoSResol\EoSResol\obj\Release\EoSResol.exe.manifest
+C:\Users\micha\Documents\github\EoS\Src\EoSResolForm\EoSResol\EoSResol\obj\Release\EoSResol.application
